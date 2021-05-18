@@ -1,4 +1,4 @@
-EECS 738 Project 4 - Treasure Hunters Inc.
+# EECS 738 Project 4 - Treasure Hunters Inc.
 
 Notebook - Contains 1 notebook with the Game map and the RL implementation
 * GameMap class - Implements the required environment for the Reinforcement learning algorithm
